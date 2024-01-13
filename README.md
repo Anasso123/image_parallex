@@ -1,16 +1,4 @@
 # image_parallex
 
-A new Flutter project.
+https://github.com/Anasso123/image_parallex/assets/59660644/475345d9-4636-43fa-8e9b-b0815d34176d
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
